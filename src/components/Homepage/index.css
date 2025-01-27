@@ -1,0 +1,10 @@
+.homepage_container {
+  display: flex;
+  height: calc(100vh - 60px);
+  justify-content: center;
+  align-items: center;
+
+  background-image: url("@site/static/img/home_bg.svg");
+  background-position: center;
+  background-size: cover;
+}
