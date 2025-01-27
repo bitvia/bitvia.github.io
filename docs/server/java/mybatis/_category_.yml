@@ -1,7 +1,0 @@
-position: 5 # float position is supported
-label: "MyBatis"
-link:
-  type: generated-index
-  title: MyBatis Overview
-customProps:
-  description: This description can be used in the swizzled DocCard
