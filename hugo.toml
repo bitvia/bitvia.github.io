@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://bitvia.github.io/"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh"
 title = "Personal Tech Site"

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alerts on Personal Tech Site</title>
-    <link>https://example.com/tags/alerts/</link>
+    <link>http://localhost:1313/tags/alerts/</link>
     <description>Recent content in Alerts on Personal Tech Site</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 12 Jan 2026 09:00:00 +0800</lastBuildDate>
-    <atom:link href="https://example.com/tags/alerts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/alerts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Realtime Observability Suite</title>
-      <link>https://example.com/projects/realtime-observability-suite/</link>
+      <link>http://localhost:1313/projects/realtime-observability-suite/</link>
       <pubDate>Mon, 12 Jan 2026 09:00:00 +0800</pubDate>
-      <guid>https://example.com/projects/realtime-observability-suite/</guid>
+      <guid>http://localhost:1313/projects/realtime-observability-suite/</guid>
       <description>A realtime monitoring suite for services, jobs, and infra with alert pipelines and incident views.</description>
     </item>
   </channel>

@@ -2,122 +2,122 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2026-02-27T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-02-27T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2026-02-27T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/api/</loc>
+    <loc>http://localhost:1313/tags/api/</loc>
     <lastmod>2026-02-20T10:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/categories/backend/</loc>
+    <loc>http://localhost:1313/categories/backend/</loc>
     <lastmod>2026-02-20T10:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2026-02-20T10:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/projects/edge-api-platform/</loc>
+    <loc>http://localhost:1313/projects/edge-api-platform/</loc>
     <lastmod>2026-02-20T10:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/gateway/</loc>
+    <loc>http://localhost:1313/tags/gateway/</loc>
     <lastmod>2026-02-20T10:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/go/</loc>
+    <loc>http://localhost:1313/tags/go/</loc>
     <lastmod>2026-02-20T10:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/kubernetes/</loc>
+    <loc>http://localhost:1313/tags/kubernetes/</loc>
     <lastmod>2026-02-20T10:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-02-20T10:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/posts/api-versioning-in-production/</loc>
+    <loc>http://localhost:1313/posts/api-versioning-in-production/</loc>
     <lastmod>2026-02-18T09:30:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/architecture/</loc>
+    <loc>http://localhost:1313/tags/architecture/</loc>
     <lastmod>2026-02-18T09:30:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/design/</loc>
+    <loc>http://localhost:1313/tags/design/</loc>
     <lastmod>2026-02-18T09:30:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/versioning/</loc>
+    <loc>http://localhost:1313/tags/versioning/</loc>
     <lastmod>2026-02-18T09:30:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/microservices/</loc>
+    <loc>http://localhost:1313/tags/microservices/</loc>
     <lastmod>2026-02-10T11:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/monitoring/</loc>
+    <loc>http://localhost:1313/tags/monitoring/</loc>
     <lastmod>2026-02-10T11:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/observability/</loc>
+    <loc>http://localhost:1313/tags/observability/</loc>
     <lastmod>2026-02-10T11:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/posts/observability-baseline-for-microservices/</loc>
+    <loc>http://localhost:1313/posts/observability-baseline-for-microservices/</loc>
     <lastmod>2026-02-10T11:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/categories/platform/</loc>
+    <loc>http://localhost:1313/categories/platform/</loc>
     <lastmod>2026-02-10T11:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/sre/</loc>
+    <loc>http://localhost:1313/tags/sre/</loc>
     <lastmod>2026-02-10T11:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/alerts/</loc>
+    <loc>http://localhost:1313/tags/alerts/</loc>
     <lastmod>2026-01-12T09:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/projects/realtime-observability-suite/</loc>
+    <loc>http://localhost:1313/projects/realtime-observability-suite/</loc>
     <lastmod>2026-01-12T09:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2023-01-01T08:30:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
