@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sre on Personal Tech Site</title>
+    <link>https://example.com/tags/sre/</link>
+    <description>Recent content in Sre on Personal Tech Site</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 10 Feb 2026 11:00:00 +0800</lastBuildDate>
+    <atom:link href="https://example.com/tags/sre/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Observability Baseline for Microservices</title>
+      <link>https://example.com/posts/observability-baseline-for-microservices/</link>
+      <pubDate>Tue, 10 Feb 2026 11:00:00 +0800</pubDate>
+      <guid>https://example.com/posts/observability-baseline-for-microservices/</guid>
+      <description>A minimum, high-leverage observability baseline for microservice systems.</description>
+    </item>
+    <item>
+      <title>Realtime Observability Suite</title>
+      <link>https://example.com/projects/realtime-observability-suite/</link>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 +0800</pubDate>
+      <guid>https://example.com/projects/realtime-observability-suite/</guid>
+      <description>A realtime monitoring suite for services, jobs, and infra with alert pipelines and incident views.</description>
+    </item>
+  </channel>
+</rss>

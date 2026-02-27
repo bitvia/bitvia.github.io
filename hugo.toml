@@ -1,0 +1,74 @@
+baseURL = "https://example.com/"
+languageCode = "zh-cn"
+defaultContentLanguage = "zh"
+title = "Personal Tech Site"
+theme = "yassi"
+enableRobotsTXT = true
+timeZone = "Asia/Shanghai"
+
+[pagination]
+  pagerSize = 10
+
+[permalinks]
+  posts = "/posts/:slug/"
+  projects = "/projects/:slug/"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  term = ["HTML", "RSS"]
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = false
+    style = "github"
+    tabWidth = 2
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[params]
+  description = "Minimal technical personal website for projects and posts."
+  keywords = ["hugo", "yassi", "portfolio", "blog", "projects"]
+  author = "Your Name"
+  CoverImage = "/images/avatar.svg"
+  CoverImageWidth = 150
+  useProjectCarousel = true
+  enableSearch = true
+
+  [params.social]
+    github = "https://github.com/yourusername"
+
+[[menus.main]]
+name = "Home"
+pageRef = "/"
+weight = 10
+
+[[menus.main]]
+name = "About"
+url = "/about/"
+weight = 20
+
+[[menus.main]]
+name = "Tags"
+pageRef = "/tags"
+weight = 30
+
+[[menus.main]]
+name = "Categories"
+pageRef = "/categories"
+weight = 40

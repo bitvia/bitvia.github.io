@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g2)"/>
+  <rect x="90" y="120" width="1020" height="390" rx="18" fill="#0b1220" stroke="#475569"/>
+  <polyline points="150,420 260,370 360,390 470,300 580,320 690,250 800,290 920,220 1030,260"
+    fill="none" stroke="#22c55e" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="140" y="300" fill="#e2e8f0" font-size="50" font-family="Consolas, Monaco, monospace">Realtime Observability Suite</text>
+  <text x="140" y="360" fill="#94a3b8" font-size="28" font-family="Consolas, Monaco, monospace">Metrics · Logs · Traces · Alerts</text>
+</svg>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Personal Tech Site</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Home on Personal Tech Site</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 27 Feb 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0800</pubDate>
+      <guid>https://example.com/about/</guid>
+      <description>&lt;p&gt;I am a software engineer focused on backend systems and product engineering.&lt;/p&gt;&#xA;&lt;p&gt;Current research directions:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;AI application engineering&lt;/li&gt;&#xA;&lt;li&gt;Networking and distributed systems&lt;/li&gt;&#xA;&lt;li&gt;Cross-platform architecture&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Technical philosophy:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Prefer simple and maintainable design&lt;/li&gt;&#xA;&lt;li&gt;Deliver useful increments first, then iterate&lt;/li&gt;&#xA;&lt;li&gt;Prioritize observability, testing, and reliability&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Contact:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/yourusername&#34;&gt;https://github.com/yourusername&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:yourname@example.com&#34;&gt;yourname@example.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Edge API Platform</title>
+      <link>https://example.com/projects/edge-api-platform/</link>
+      <pubDate>Fri, 20 Feb 2026 10:00:00 +0800</pubDate>
+      <guid>https://example.com/projects/edge-api-platform/</guid>
+      <description>A high-availability API gateway platform with unified auth, rate limiting, and observability.</description>
+    </item>
+    <item>
+      <title>API Versioning in Production</title>
+      <link>https://example.com/posts/api-versioning-in-production/</link>
+      <pubDate>Wed, 18 Feb 2026 09:30:00 +0800</pubDate>
+      <guid>https://example.com/posts/api-versioning-in-production/</guid>
+      <description>Practical versioning patterns for evolving APIs without breaking clients.</description>
+    </item>
+    <item>
+      <title>Observability Baseline for Microservices</title>
+      <link>https://example.com/posts/observability-baseline-for-microservices/</link>
+      <pubDate>Tue, 10 Feb 2026 11:00:00 +0800</pubDate>
+      <guid>https://example.com/posts/observability-baseline-for-microservices/</guid>
+      <description>A minimum, high-leverage observability baseline for microservice systems.</description>
+    </item>
+    <item>
+      <title>Realtime Observability Suite</title>
+      <link>https://example.com/projects/realtime-observability-suite/</link>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 +0800</pubDate>
+      <guid>https://example.com/projects/realtime-observability-suite/</guid>
+      <description>A realtime monitoring suite for services, jobs, and infra with alert pipelines and incident views.</description>
+    </item>
+  </channel>
+</rss>
