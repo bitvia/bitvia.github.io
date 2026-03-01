@@ -7,19 +7,14 @@ draft = false
 
 I am a software engineer focused on backend systems and product engineering.
 
-Current research directions:
+我是一个全栈开发者，具备从后端服务到客户端与前端应用的完整交付经验。
 
-- AI application engineering
-- Networking and distributed systems
-- Cross-platform architecture
+熟悉的技术栈包括：
 
-Technical philosophy:
+- Java
+- Android
+- Go
+- React
+- Python
 
-- Prefer simple and maintainable design
-- Deliver useful increments first, then iterate
-- Prioritize observability, testing, and reliability
-
-Contact:
-
-- GitHub: https://github.com/yourusername
-- Email: yourname@example.com
+我关注工程可维护性、系统稳定性与交付效率，倾向用简洁务实的方案解决真实业务问题。

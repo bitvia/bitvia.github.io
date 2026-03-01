@@ -1,7 +1,7 @@
 baseURL = "https://bitvia.github.io/"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh"
-title = "Personal Tech Site"
+title = "bitvia"
 theme = "yassi"
 enableRobotsTXT = true
 timeZone = "Asia/Shanghai"
@@ -45,8 +45,8 @@ timeZone = "Asia/Shanghai"
   description = "Minimal technical personal website for projects and posts."
   keywords = ["hugo", "yassi", "portfolio", "blog", "projects"]
   author = "Your Name"
-  CoverImage = "/images/avatar.svg"
-  CoverImageWidth = 150
+  CoverImage = "/images/avatar.png"
+  CoverImageWidth = 96
   useProjectCarousel = true
   enableSearch = true
 

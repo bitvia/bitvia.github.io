@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sre on Personal Tech Site</title>
+    <title>Sre on bitvia</title>
     <link>http://localhost:1313/tags/sre/</link>
-    <description>Recent content in Sre on Personal Tech Site</description>
+    <description>Recent content in Sre on bitvia</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 10 Feb 2026 11:00:00 +0800</lastBuildDate>

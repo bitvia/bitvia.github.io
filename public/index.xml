@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Personal Tech Site</title>
+    <title>Home on bitvia</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Personal Tech Site</description>
+    <description>Recent content in Home on bitvia</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 27 Feb 2026 00:00:00 +0800</lastBuildDate>
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Fri, 27 Feb 2026 00:00:00 +0800</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;I am a software engineer focused on backend systems and product engineering.&lt;/p&gt;&#xA;&lt;p&gt;Current research directions:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;AI application engineering&lt;/li&gt;&#xA;&lt;li&gt;Networking and distributed systems&lt;/li&gt;&#xA;&lt;li&gt;Cross-platform architecture&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Technical philosophy:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Prefer simple and maintainable design&lt;/li&gt;&#xA;&lt;li&gt;Deliver useful increments first, then iterate&lt;/li&gt;&#xA;&lt;li&gt;Prioritize observability, testing, and reliability&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Contact:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/yourusername&#34;&gt;https://github.com/yourusername&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:yourname@example.com&#34;&gt;yourname@example.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;I am a software engineer focused on backend systems and product engineering.&lt;/p&gt;&#xA;&lt;p&gt;我是一个全栈开发者，具备从后端服务到客户端与前端应用的完整交付经验。&lt;/p&gt;&#xA;&lt;p&gt;熟悉的技术栈包括：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Java&lt;/li&gt;&#xA;&lt;li&gt;Android&lt;/li&gt;&#xA;&lt;li&gt;Go&lt;/li&gt;&#xA;&lt;li&gt;React&lt;/li&gt;&#xA;&lt;li&gt;Python&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;我关注工程可维护性、系统稳定性与交付效率，倾向用简洁务实的方案解决真实业务问题。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Edge API Platform</title>

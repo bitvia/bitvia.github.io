@@ -5,5 +5,3 @@ draft = false
 +++
 
 Backend-focused engineer building reliable products with clear architecture and practical delivery.
-
-This site records projects, engineering notes, and decisions learned from real-world implementation.
