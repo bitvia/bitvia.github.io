@@ -51,7 +51,7 @@ timeZone = "Asia/Shanghai"
   enableSearch = true
 
   [params.social]
-    github = "https://github.com/yourusername"
+    github = "https://github.com/bitvia"
 
 [[menus.main]]
 name = "Home"
