@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Engineering Workflow on bitvia</title>
+    <link>http://localhost:1313/tags/engineering-workflow/</link>
+    <description>Recent content in Engineering Workflow on bitvia</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 18 Feb 2026 09:30:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/engineering-workflow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vibe Coding</title>
+      <link>http://localhost:1313/posts/ai-vibe-coding/</link>
+      <pubDate>Wed, 18 Feb 2026 09:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/ai-vibe-coding/</guid>
+      <description>What vibe coding is, where it works, and how to use it in a production-minded workflow.</description>
+    </item>
+  </channel>
+</rss>

@@ -22,5 +22,12 @@
       <guid>http://localhost:1313/posts/api-versioning-in-production/</guid>
       <description>Practical versioning patterns for evolving APIs without breaking clients.</description>
     </item>
+    <item>
+      <title>Vibe Coding</title>
+      <link>http://localhost:1313/posts/ai-vibe-coding/</link>
+      <pubDate>Wed, 18 Feb 2026 09:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/ai-vibe-coding/</guid>
+      <description>Practical versioning patterns for evolving APIs without breaking clients.</description>
+    </item>
   </channel>
 </rss>

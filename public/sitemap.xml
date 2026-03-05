@@ -57,6 +57,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/tags/ai/</loc>
+    <lastmod>2026-02-18T09:30:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/posts/api-versioning-in-production/</loc>
     <lastmod>2026-02-18T09:30:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -73,6 +78,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/versioning/</loc>
+    <lastmod>2026-02-18T09:30:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/ai-vibe-coding/</loc>
     <lastmod>2026-02-18T09:30:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

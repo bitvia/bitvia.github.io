@@ -6,28 +6,28 @@
     <description>Recent content in Home on bitvia</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 20 Feb 2026 10:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 22:30:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vibe Coding</title>
+      <link>http://localhost:1313/posts/vibe-coding/</link>
+      <pubDate>Thu, 05 Mar 2026 22:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/vibe-coding/</guid>
+      <description>什么是 Vibe Coding、适用场景，以及如何在生产导向的工程流程中正确使用它。</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I am a full-stack developer with end-to-end delivery experience across backend, client, and frontend applications.&lt;/p&gt;&#xA;&lt;p&gt;我是一位全栈开发者，具备从后端服务到客户端与前端应用的完整交付经验。&lt;/p&gt;&#xA;&lt;p&gt;熟悉的技术栈包括：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Java&lt;/li&gt;&#xA;&lt;li&gt;Android&lt;/li&gt;&#xA;&lt;li&gt;Go&lt;/li&gt;&#xA;&lt;li&gt;React&lt;/li&gt;&#xA;&lt;li&gt;Python&lt;/li&gt;&#xA;&lt;li&gt;Flutter&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;我关注工程可维护性、系统稳定性与交付效率，倾向用简洁务实的方案解决真实业务问题。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Edge API Platform</title>
       <link>http://localhost:1313/projects/edge-api-platform/</link>
       <pubDate>Fri, 20 Feb 2026 10:00:00 +0800</pubDate>
       <guid>http://localhost:1313/projects/edge-api-platform/</guid>
       <description>A high-availability API gateway platform with unified auth, rate limiting, and observability.</description>
-    </item>
-    <item>
-      <title>API Versioning in Production</title>
-      <link>http://localhost:1313/posts/api-versioning-in-production/</link>
-      <pubDate>Wed, 18 Feb 2026 09:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/api-versioning-in-production/</guid>
-      <description>Practical versioning patterns for evolving APIs without breaking clients.</description>
-    </item>
-    <item>
-      <title>Observability Baseline for Microservices</title>
-      <link>http://localhost:1313/posts/observability-baseline-for-microservices/</link>
-      <pubDate>Tue, 10 Feb 2026 11:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/observability-baseline-for-microservices/</guid>
-      <description>A minimum, high-leverage observability baseline for microservice systems.</description>
     </item>
     <item>
       <title>Realtime Observability Suite</title>
